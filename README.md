@@ -19,7 +19,7 @@ Sou desenvolvedor com sólida experiência em suporte técnico, desenvolvimento 
 
 ### 🚀 G10 Gestão de Aplicativos – Gestor de Projeto  
 📍 Joinville - Santa Catarina - Joinville - Santa Catarina 
-📅 Agosto de 2022 – Presente
+📅 Agosto de 2022 - Setembro de 2024 – Presente
 
 - Liderança de equipes e projetos de desenvolvimento;
 - Gerenciamento de banco de dados com **MongoDB Atlas** (clusters, consultas);
