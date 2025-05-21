@@ -1,74 +1,105 @@
 # 👋 Olá! Eu sou o Guilherme de Andrade
 
-Sou desenvolvedor com experiência em gestão de projetos, desenvolvimento de produtos digitais e infraestrutura em nuvem. Ao longo da minha jornada, atuei em startups e escritórios de grande porte, com foco em eficiência, segurança e escalabilidade.
+Sou desenvolvedor com sólida experiência em suporte técnico, desenvolvimento de produtos digitais e infraestrutura em nuvem. Atuo com foco em qualidade, segurança e eficiência, sempre buscando soluções práticas e escaláveis.
 
 ---
 
 ## 💼 Experiência Profissional
 
-### 🚀 G10 Gestão de Aplicativos – *Gestor de Projeto*  
-📍 Rua Doutor Plácido Olímpio de Oliveira  
-📅 **Agosto de 2022 – Presente**
+### 🖥️ CAD Sistemas – Técnico de Suporte em Sistemas  
+📍 Joinville - Santa Catarina
+📅 Dezembro de 2024 – Fevereiro de 2025
 
-- Gestão de times e departamentos de desenvolvimento;
-- Gerenciamento de banco de dados com **MongoDB Atlas** (configuração de clusters, consultas);
-- Ambientes de produção na **AWS** com **Elastic Beanstalk**;
-- Configuração de **SMTP** e **SSL** via **Locaweb**;
-- Atuação estratégica em infraestrutura e segurança.
+- Suporte remoto via **AnyDesk** e **TeamViewer** para ambientes Windows;
+- Atendimento técnico especializado aos módulos do sistema **CAD Sistemas**: `CADEX`, `CADERP`, `CAD MOBILE`, `CAD VENDAS`, `CAD ROTAS` e `CAD INSPEX`;
+- Controle de peças, orçamentos, etiquetas de validade, permissões setoriais e integração com planilhas;
+- Apoio a empresas na área de inspeção de equipamentos contra incêndio.
 
 ---
 
-### 🏢 Martinelli Advogados – *Analista de Informações*  
-📍 R. Cel. Santiago, 177  
-📅 **Maio de 2022 – Junho de 2022**
+### 🚀 G10 Gestão de Aplicativos – Gestor de Projeto  
+📍 Joinville - Santa Catarina - Joinville - Santa Catarina 
+📅 Agosto de 2022 – Presente
 
-- Desenvolvimento de scripts em **Python** para limpeza e padronização de planilhas;
-- Integração de dados com **Power BI** para visualização pela equipe de Business Intelligence.
+- Liderança de equipes e projetos de desenvolvimento;
+- Gerenciamento de banco de dados com **MongoDB Atlas** (clusters, consultas);
+- Ambientes de produção em **AWS Elastic Beanstalk**;
+- Configuração de **SMTP** e **Certificado SSL** via **Locaweb**;
+- Implementação de infraestrutura e boas práticas de segurança.
+
+---
+
+### 🏢 Martinelli Advogados – Analista de Informações  
+📍 Joinville - Santa Catarina - R. Cel. Santiago, 177  
+📅 Maio de 2022 – Junho de 2022
+
+- Criação de scripts em **Python** para saneamento de dados em planilhas;
+- Integração de dados com **Power BI** para uso da equipe de Business Intelligence.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
 ### 💻 Instituto Federal do Acre (IFAC) – Câmpus Rio Branco  
-📅 **Fev/2018 – Nov/2020**
+📅 Fevereiro de 2018 – Novembro de 2020
 
-- Programação em Shell Script, C e lógica de programação;
+- Shell Script, C, lógica de programação e sistemas operacionais;
 - Participação na **Olimpíada Brasileira de Robótica (OBR)** com robô Lego EV3;
-- Instalação, diagnóstico e manutenção de redes;
-- Configuração de servidores com **MariaDB** e certificados **OpenSSL**.
+- Configuração de **MariaDB**, **OpenSSL**, redes e servidores;
+- Instalação, cabeamento, manutenção e diagnóstico de infra de redes.
 
 ---
 
 ### 📚 Certificações
 
 - **Segurança em Tecnologia da Informação** – Fundação Bradesco  
-  📅 Janeiro de 2022 – Carga horária: 12h  
+  📅 Janeiro de 2022 – 12 horas  
   ✔️ Protocolos de segurança e proteção de dados
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Habilidades Técnicas
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+**Sistemas Operacionais:**  
+Windows (avançado), Linux (básico-intermediário)  
+
+**Infraestrutura & Cloud:**  
+AWS (Elastic Beanstalk), MongoDB Atlas, Locaweb, SMTP, SSL, Active Directory (básico)  
+
+**Suporte & Helpdesk:**  
+AnyDesk, TeamViewer, diagnóstico remoto, sistemas de chamados  
+
+**Redes:**  
+Cabeamento, configuração de dispositivos, manutenção de servidores  
+
+**Programação:**  
+Python, Shell Script, linguagem C  
+
+**Sistemas de Gestão:**  
+CAD Sistemas (CADEX, CADERP, CAD MOBILE, etc.)
+
+**Ferramentas:**  
+Power BI, Pacote Office, CRMs, plataformas de inspeção técnica
+
+---
+
+### 💡 Diferenciais
+
+- Experiência com **sistemas críticos empresariais** e múltiplos módulos integrados
+- Vivência com **rastreabilidade de ativos**, etiquetas de validade e controle técnico
+- Perfil **proativo**, orientado a soluções e com adaptação rápida a ambientes de alta demanda
+- Alinhamento com helpdesk, documentação técnica, controle de acessos e atendimento ao cliente
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-andrade-16788a153/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/guibessandrade/)
-
-📱 **Telefone / WhatsApp**: +55 (47) 98880-0836
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-andrade-16788a153/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/guibessandrade/)  
+📱 **Telefone / WhatsApp:** +55 (47) 98880-0836
 
 ---
 
 ### ✨ Obrigado por visitar meu perfil!
 
-Se quiser bater um papo sobre tecnologia, trocar experiências ou propor um projeto, fique à vontade para entrar em contato! 😄
+Se quiser trocar ideias sobre tecnologia, propor projetos ou apenas bater um papo sobre inovação e desenvolvimento, estou à disposição! 😄
